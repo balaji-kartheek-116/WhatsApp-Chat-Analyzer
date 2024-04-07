@@ -10,6 +10,7 @@ textblob
 scikit-learn
 spacy
 emoji_data_python
+statsmodels
 
 
 # pip install pandas fbprophet matplotlib
