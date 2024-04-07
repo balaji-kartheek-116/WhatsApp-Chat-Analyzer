@@ -9,6 +9,7 @@ pillow
 textblob
 scikit-learn
 spacy
+emoji_data_python
 
 
 # pip install pandas fbprophet matplotlib
